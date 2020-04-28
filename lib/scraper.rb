@@ -14,6 +14,8 @@ class Scraper
   
   def get_courses
     
+    
+    
   end
   
   def make_courses
